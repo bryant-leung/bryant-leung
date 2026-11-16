@@ -8,7 +8,7 @@
 
 ---
 
-Hi, I'm Bryant. I'm a final-year BSc Artificial Intelligence and Computer Science student at the University of Birmingham, on a first-class average. I build full-stack and machine-learning systems that show their working.
+Hi, I'm Bryant. I'm a final-year BSc Artificial Intelligence and Computer Science student at the University of Birmingham, on a first-class average. I build full-stack and machine-learning systems that brings me convenience. For example, I've always wanted a working Japanese Learning add-on to when I'm watching anime, and when nothing online is available, I came up with JimakuKasane, which is one of the few projects I have built.
 
 Over summer 2026 I was the sole engineer at Arete, where I launched a live consulting hackathon that took 550+ applications. I'm also Career Secretary for a society connecting students with careers in Japan.
 
