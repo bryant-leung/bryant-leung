@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Bryant Leung: a clockwork labyrinth portfolio">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Bryant Leung: Computer Science &amp; AI student">
 <defs>
  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14070a"/><stop offset=".35" stop-color="#5c1010"/><stop offset=".6" stop-color="#991b1b"/><stop offset=".85" stop-color="#2a0a0a"/><stop offset="1" stop-color="#050507"/></linearGradient><radialGradient id="aura" cx="50%" cy="46%" r="55%"><stop offset="0" stop-color="#fde68a" stop-opacity=".35"/><stop offset=".25" stop-color="#ea580c" stop-opacity=".45"/><stop offset=".6" stop-color="#b91c1c" stop-opacity=".25"/><stop offset="1" stop-color="#b91c1c" stop-opacity="0"/></radialGradient><radialGradient id="ember" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fde68a"/><stop offset=".4" stop-color="#f97316"/><stop offset="1" stop-color="#dc2626" stop-opacity="0"/></radialGradient><filter id="burn" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  <linearGradient id="horizon" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#f97316" stop-opacity=".45"/><stop offset=".25" stop-color="#f59e0b" stop-opacity=".12"/><stop offset=".6" stop-color="#050507" stop-opacity="0"/></linearGradient>
@@ -161,7 +161,7 @@
 </g>
 <text x="600" y="214" text-anchor="middle" font-family="'Cormorant Garamond','Playfair Display',Georgia,'Times New Roman',serif" font-size="64" letter-spacing="12" fill="url(#gold)">BRYANT LEUNG</text>
 <line x1="430" y1="238" x2="770" y2="238" stroke="#f5b942" stroke-opacity=".45"/>
-<text x="600" y="268" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="15" letter-spacing="5" fill="#fed7aa">COMPUTER SCIENCE &amp; AI  ·  A CLOCKWORK LABYRINTH</text>
+<text x="600" y="268" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="15" letter-spacing="5" fill="#fed7aa">COMPUTER SCIENCE &amp; AI STUDENT</text>
 <g><animateMotion dur="11.2s" begin="-6.8s" repeatCount="indefinite" path="M190,-40 C229,70 151,180 190,250 S229,340 190,400"/>
  <g transform="scale(0.75)"><use href="#feather" fill="#0a0608" stroke="#f97316" stroke-opacity=".9" stroke-width="1.4" filter="url(#burn)"><animateTransform attributeName="transform" type="rotate" values="-22;22;-22" dur="3.7s" begin="-6.8s" repeatCount="indefinite"/></use></g></g>
 <g><animateMotion dur="10.6s" begin="-2.5s" repeatCount="indefinite" path="M1052,-40 C1089,70 1015,180 1052,250 S1089,340 1052,400"/>
